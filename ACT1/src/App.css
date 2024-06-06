@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.App {
+  margin: 50px auto;
+  max-width: 600px;
+}
+.recipe {
+  margin: 20px 0;
+}
+.ingredients,
+.instructions {
+  text-align: left;
+}
